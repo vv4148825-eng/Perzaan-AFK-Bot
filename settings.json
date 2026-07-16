@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "PB36-SMP.aternos.me",
+    "port": 24464,
     "version": "1.21.1"
   },
   "position": {
